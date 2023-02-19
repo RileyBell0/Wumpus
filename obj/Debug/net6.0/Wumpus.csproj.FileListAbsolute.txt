@@ -1,0 +1,15 @@
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.csproj.AssemblyReference.cache
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.AssemblyInfoInputs.cache
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.AssemblyInfo.cs
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.csproj.CoreCompileInputs.cache
+/Users/rileybell/Local/Coding/Wumpus/bin/Debug/net6.0/Wumpus
+/Users/rileybell/Local/Coding/Wumpus/bin/Debug/net6.0/Wumpus.deps.json
+/Users/rileybell/Local/Coding/Wumpus/bin/Debug/net6.0/Wumpus.runtimeconfig.json
+/Users/rileybell/Local/Coding/Wumpus/bin/Debug/net6.0/Wumpus.dll
+/Users/rileybell/Local/Coding/Wumpus/bin/Debug/net6.0/Wumpus.pdb
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.dll
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/refint/Wumpus.dll
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.pdb
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/Wumpus.genruntimeconfig.cache
+/Users/rileybell/Local/Coding/Wumpus/obj/Debug/net6.0/ref/Wumpus.dll
